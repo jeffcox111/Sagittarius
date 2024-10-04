@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Sagittarius">
+</Property><Property Name="Solution File" Value="C:\Users\Jeff\Documents\My Dropbox\JeffDev\JeffDev\Dev\MS.Net\Sagittarius\Sagittarius.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Jeff\Documents\My Dropbox\JeffDev\JeffDev\Dev\MS.Net\Sagittarius\Sagittarius.suo">
+</Property><Property Name="Date" Value="Monday, June 10, 2013">
+</Property><Property Name="Time" Value="9:20 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Sagittarius.sln" Description="File successfully backed up as C:\Users\Jeff\Documents\My Dropbox\JeffDev\JeffDev\Dev\MS.Net\Sagittarius\Backup\Sagittarius.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Sagittarius.suo" Description="File successfully backed up as C:\Users\Jeff\Documents\My Dropbox\JeffDev\JeffDev\Dev\MS.Net\Sagittarius\Backup\Sagittarius.suo">
+</Event><Event ErrorLevel="0" Project="Sagittarius" Source="Sagittarius.vbproj" Description="Project file successfully backed up as C:\Users\Jeff\Documents\My Dropbox\JeffDev\JeffDev\Dev\MS.Net\Sagittarius\Backup\Sagittarius.vbproj">
+</Event><Event ErrorLevel="0" Project="Sagittarius" Source="Sagittarius.vbproj.user" Description="Project user file successfully backed up as C:\Users\Jeff\Documents\My Dropbox\JeffDev\JeffDev\Dev\MS.Net\Sagittarius\Backup\Sagittarius.vbproj.user">
+</Event><Event ErrorLevel="0" Project="Sagittarius" Source="Behavior_Routines.vb" Description="File successfully backed up as C:\Users\Jeff\Documents\My Dropbox\JeffDev\JeffDev\Dev\MS.Net\Sagittarius\Backup\Behavior_Routines.vb">
+</Event><Event ErrorLevel="0" Project="Sagittarius" Source="CCamera.vb" Description="File successfully backed up as C:\Users\Jeff\Documents\My Dropbox\JeffDev\JeffDev\Dev\MS.Net\Sagittarius\Backup\CCamera.vb">
+</Event><Event ErrorLevel="0" Project="Sagittarius" Source="dxutil.vb" Description="File successfully backed up as C:\Users\Jeff\Documents\My Dropbox\JeffDev\JeffDev\Dev\MS.Net\Sagittarius\Backup\dxutil.vb">
+</Event><Event ErrorLevel="0" Project="Sagittarius" Source="frmLoading.vb" Description="File successfully backed up as C:\Users\Jeff\Documents\My Dropbox\JeffDev\JeffDev\Dev\MS.Net\Sagittarius\Backup\frmLoading.vb">
+</Event><Event ErrorLevel="0" Project="Sagittarius" Source="InputBoxHud.vb" Description="File successfully backed up as C:\Users\Jeff\Documents\My Dropbox\JeffDev\JeffDev\Dev\MS.Net\Sagittarius\Backup\InputBoxHud.vb">
+</Event><Event ErrorLevel="0" Project="Sagittarius" Source="InputManager.vb" Description="File successfully backed up as C:\Users\Jeff\Documents\My Dropbox\JeffDev\JeffDev\Dev\MS.Net\Sagittarius\Backup\InputManager.vb">
+</Event><Event ErrorLevel="0" Project="Sagittarius" Source="LoadManager.vb" Description="File successfully backed up as C:\Users\Jeff\Documents\My Dropbox\JeffDev\JeffDev\Dev\MS.Net\Sagittarius\Backup\LoadManager.vb">
+</Event><Event ErrorLevel="0" Project="Sagittarius" Source="mdlGlobals.vb" Description="File successfully backed up as C:\Users\Jeff\Documents\My Dropbox\JeffDev\JeffDev\Dev\MS.Net\Sagittarius\Backup\mdlGlobals.vb">
+</Event><Event ErrorLevel="0" Project="Sagittarius" Source="MessageHud.vb" Description="File successfully backed up as C:\Users\Jeff\Documents\My Dropbox\JeffDev\JeffDev\Dev\MS.Net\Sagittarius\Backup\MessageHud.vb">
+</Event><Event ErrorLevel="0" Project="Sagittarius" Source="ModelManager.vb" Description="File successfully backed up as C:\Users\Jeff\Documents\My Dropbox\JeffDev\JeffDev\Dev\MS.Net\Sagittarius\Backup\ModelManager.vb">
+</Event><Event ErrorLevel="0" Project="Sagittarius" Source="SagEnvironment.vb" Description="File successfully backed up as C:\Users\Jeff\Documents\My Dropbox\JeffDev\JeffDev\Dev\MS.Net\Sagittarius\Backup\SagEnvironment.vb">
+</Event><Event ErrorLevel="0" Project="Sagittarius" Source="Sagittarius.vb" Description="File successfully backed up as C:\Users\Jeff\Documents\My Dropbox\JeffDev\JeffDev\Dev\MS.Net\Sagittarius\Backup\Sagittarius.vb">
+</Event><Event ErrorLevel="0" Project="Sagittarius" Source="SoundTrackManager.vb" Description="File successfully backed up as C:\Users\Jeff\Documents\My Dropbox\JeffDev\JeffDev\Dev\MS.Net\Sagittarius\Backup\SoundTrackManager.vb">
+</Event><Event ErrorLevel="0" Project="Sagittarius" Source="SpriteManager.vb" Description="File successfully backed up as C:\Users\Jeff\Documents\My Dropbox\JeffDev\JeffDev\Dev\MS.Net\Sagittarius\Backup\SpriteManager.vb">
+</Event><Event ErrorLevel="0" Project="Sagittarius" Source="frmLoading.resx" Description="File successfully backed up as C:\Users\Jeff\Documents\My Dropbox\JeffDev\JeffDev\Dev\MS.Net\Sagittarius\Backup\frmLoading.resx">
+</Event><Event ErrorLevel="0" Project="Sagittarius" Source="Sagittarius.resx" Description="File successfully backed up as C:\Users\Jeff\Documents\My Dropbox\JeffDev\JeffDev\Dev\MS.Net\Sagittarius\Backup\Sagittarius.resx">
+</Event><Event ErrorLevel="1" Project="Sagittarius" Source="Sagittarius.vbproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="Sagittarius" Source="Sagittarius.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Sagittarius" Source="Sagittarius.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Sagittarius.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Sagittarius.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Sagittarius" Source="Sagittarius.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

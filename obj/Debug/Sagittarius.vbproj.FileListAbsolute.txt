@@ -1,0 +1,9 @@
+C:\Users\Jeff\Documents\My Dropbox\JeffDev\JeffDev\Dev\MS.Net\Sagittarius\obj\Debug\Interop.MSScriptControl.dll
+C:\Users\Jeff\Documents\My Dropbox\JeffDev\JeffDev\Dev\MS.Net\Sagittarius\obj\Debug\Sagittarius.vbproj.ResolveComReference.cache
+C:\Users\Jeff\Documents\My Dropbox\JeffDev\JeffDev\Dev\MS.Net\Sagittarius\obj\Debug\Sagittarius.exe
+C:\Users\Jeff\Documents\My Dropbox\JeffDev\JeffDev\Dev\MS.Net\Sagittarius\obj\Debug\Sagittarius.pdb
+C:\Users\Jeff\Documents\My Dropbox\JeffDev\JeffDev\Dev\MS.Net\Sagittarius\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jeff\Documents\My Dropbox\JeffDev\JeffDev\Dev\MS.Net\Sagittarius\obj\Debug\Sagittarius.frmLoading.resources
+C:\Users\Jeff\Documents\My Dropbox\JeffDev\JeffDev\Dev\MS.Net\Sagittarius\obj\Debug\Sagittarius.Sagittarius.resources
+C:\Users\Jeff\Documents\My Dropbox\JeffDev\JeffDev\Dev\MS.Net\Sagittarius\obj\Debug\ResGen.read.1.tlog
+C:\Users\Jeff\Documents\My Dropbox\JeffDev\JeffDev\Dev\MS.Net\Sagittarius\obj\Debug\ResGen.write.1.tlog
